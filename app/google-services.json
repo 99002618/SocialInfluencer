@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "833891306148",
+    "firebase_url": "https://socialinfluencer-10d72.firebaseio.com",
+    "project_id": "socialinfluencer-10d72",
+    "storage_bucket": "socialinfluencer-10d72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833891306148:android:8c9d5b2e83eb617bfbf431",
+        "android_client_info": {
+          "package_name": "com.example.socialinfluencer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833891306148-hc4dr9a48vdvb70cburd0q16ljoccflc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqdgP35xA9km3PteMqtmyc0MHNNEHRjvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833891306148-hc4dr9a48vdvb70cburd0q16ljoccflc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
